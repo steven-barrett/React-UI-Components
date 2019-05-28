@@ -1,0 +1,10 @@
+.result-screen {
+    height: 19vh;
+    font-size: 8rem;
+    font-weight: 600;
+    
+    /* To display the value at the bottom-right of the container */
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
